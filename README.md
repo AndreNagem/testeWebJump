@@ -1,6 +1,12 @@
 # teste_webkump
 
-A new Flutter application.
+Olá, 
+Para esse teste eu tive dificuldades de adaptar algumas bibliotecas para usar no flutter, contudo eu dei uma olhada em todas elas.
+Com tempo conseguiria implementar boa parte delas, a que ficou perto de ser implementada foi a Biblioteca Redux. 
+Eu compreendi seu funcionamento, que trás para aplicação a capacidade de sempre dar um estado do seu app que funcione.
+No caso desse app, eu implementaria em Redux Actions a função Fecht(), que é responsável pela aquisição da lista de filmes a serem exibidos.
+Dessa forma essa lista sempre estaria preenchida em caso de algum erro, pois e=pelo Redux teriamos sempre um estado funcional da aplicação.
+
 
 ## Getting Started
 
